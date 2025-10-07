@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ai-sdk/google": "^2.0.17",
+    "agents": "^0.2.8"
+  }
+}
